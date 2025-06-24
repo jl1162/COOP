@@ -1,0 +1,14 @@
+<style name="CategoryButton" parent="Widget.Material3.Button.OutlinedButton">
+    <item name="android:layout_marginEnd">8dp</item>
+    <item name="android:layout_height">36dp</item>
+    <item name="android:textSize">12sp</item>
+    <item name="android:insetTop">0dp</item>
+    <item name="android:insetBottom">0dp</item>
+</style>
+
+<!-- Colors -->
+<color name="green_500">#4CAF50</color>
+<color name="green_700">#388E3C</color>
+<color name="blue_500">#2196F3</color>
+<color name="gray_100">#F5F5F5</color>
+<color name="gray_600">#757575</color>
